@@ -1,6 +1,6 @@
 # mean-shift-for-dominant-color-hex-code-
 An unsupervised learning algorithim 'Mean Shift' has been used to find the centroid of the largest cluster of an image and thus the 
-centroid is the dominant color of the image. Two functions has been defined to find the cemntroid of the lasgest cluster and the other 
+centroid is the dominant color of the image. Two functions has been defined to find the centroid of the largest cluster and the other 
 function to convert the dominant color in to the hex code.
 
 # environments
